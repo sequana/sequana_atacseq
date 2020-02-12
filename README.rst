@@ -3,7 +3,7 @@ This is is the **atacseq** pipeline from the `Sequana <https://sequana.readthedo
 :Overview: TODO 
 :Input: TODO
 :Output: TODO
-:Status: draft
+:Status: IN PROGRESS. DO NOT USE
 :Citation: Cokelaer et al, (2017), ‘Sequana’: a Set of Snakemake NGS pipelines, Journal of Open Source Software, 2(16), 352, JOSS DOI doi:10.21105/joss.00352
 
 

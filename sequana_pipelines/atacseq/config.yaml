@@ -18,9 +18,8 @@ input_pattern: "%(input_pattern)s"
 # # Note that sequana and url fields are followed by itemised files or links
 # using
 # # the front dashes
-requirements:
-    - phiX174.fa
-    - Institut_Pasteur.png
+#requirements:
+#    - Institut_Pasteur.png
 
 # =========================================== Sections related to external tools
 fastqc:
